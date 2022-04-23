@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 
 namespace LOSTBOOK
 {
-    public partial class Form1 : Form
+    public partial class loading : Form
     {
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
 
@@ -25,7 +25,7 @@ namespace LOSTBOOK
             int nHeightEllipse
         );
 
-        public Form1()
+        public loading()
         {
             InitializeComponent();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 25, 25));
@@ -75,7 +75,7 @@ namespace LOSTBOOK
             if (progressbar1.Value == 100)
             {
                 timer1.Enabled = false;
-                Form2 se_form = new Form2();
+                main se_form = new main();
                 se_form.Show();
                 this.Hide();
             }

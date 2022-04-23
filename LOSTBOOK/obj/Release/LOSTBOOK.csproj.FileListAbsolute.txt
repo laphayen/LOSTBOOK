@@ -1,0 +1,16 @@
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\LOSTBOOK.exe.config
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\LOSTBOOK.exe
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\LOSTBOOK.pdb
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\CircularProgressBar.dll
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\WinFormAnimation.dll
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Release\CircularProgressBar.xml
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.csproj.AssemblyReference.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.Properties.Resources.resources
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.csproj.GenerateResource.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.csproj.CoreCompileInputs.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.csproj.CopyComplete
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.exe
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.pdb
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.loading.resources
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Release\LOSTBOOK.main.resources

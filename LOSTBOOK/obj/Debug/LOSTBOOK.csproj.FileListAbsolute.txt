@@ -1,0 +1,16 @@
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\LOSTBOOK.exe.config
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\LOSTBOOK.exe
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\LOSTBOOK.pdb
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.csproj.AssemblyReference.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.Form1.resources
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.Properties.Resources.resources
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.csproj.GenerateResource.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.csproj.CoreCompileInputs.cache
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.exe
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.pdb
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\CircularProgressBar.dll
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\WinFormAnimation.dll
+C:\Users\NATHAN\source\repos\LOSTBOOK\bin\Debug\CircularProgressBar.xml
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.csproj.CopyComplete
+C:\Users\NATHAN\source\repos\LOSTBOOK\obj\Debug\LOSTBOOK.Form2.resources
