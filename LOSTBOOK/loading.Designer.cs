@@ -40,10 +40,10 @@
             // 
             this.progressbar1.AnimationFunction = WinFormAnimation.KnownAnimationFunctions.Liner;
             this.progressbar1.AnimationSpeed = 500;
-            this.progressbar1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(60)))));
+            this.progressbar1.BackColor = System.Drawing.Color.White;
             this.progressbar1.Font = new System.Drawing.Font("나눔고딕", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
             this.progressbar1.ForeColor = System.Drawing.Color.Teal;
-            this.progressbar1.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(60)))));
+            this.progressbar1.InnerColor = System.Drawing.Color.White;
             this.progressbar1.InnerMargin = 2;
             this.progressbar1.InnerWidth = -1;
             this.progressbar1.Location = new System.Drawing.Point(52, 115);
@@ -114,7 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(60)))));
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(255, 378);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);

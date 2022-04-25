@@ -65,10 +65,43 @@ namespace LOSTBOOK
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void buttonPowerOff_Click(object sender, EventArgs e)
         {
             // 프로세스 종료 문제
             Application.Exit();
+        }
+
+        // 마우스 포인트 추가
+        private Point point = new Point();
+         
+
+        private void MainForm_MouseDown(object sender, MouseEventArgs e)
+        {
+            point = new Point(e.X, e.Y);
+        }
+
+        private void MainForm_MouseMove(object sender, MouseEventArgs e)
+        {
+            if ((e.Button & MouseButtons.Left) == MouseButtons.Left)
+            {
+                this.Location = new Point(this.Left - (point.X - e.X), this.Top - (point.Y - e.Y));
+            }
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonPlusUnit_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
